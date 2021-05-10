@@ -15,7 +15,7 @@
     - name: 'Set Known Facts'
       set_fact:
         pgrole: 'autoscanjellyfin'
-        intport: '3030'
+        intport: '3036'
         extport: '3030'
         image: 'cloudb0x/autoscan:master'
     
