@@ -95,6 +95,6 @@
         networks:
           - name: plexguide
             aliases:
-              - '{{pgrole}}'
+              - 'autoscan'
         state: started
         labels: '{{pg_labels}}'
