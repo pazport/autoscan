@@ -17,7 +17,7 @@
         pgrole: 'autoscan'
         intport: '3030'
         extport: '3030'
-        image: 'cloudb0x/autoscan:master'
+        image: 'cloudb0x/autoscan'
     
     # CORE (MANDATORY) ############################################################
     - name: 'Including cron job'
